@@ -6,4 +6,9 @@ Python Studying
 "string" A = "I'm python teacher"
 문자열안에 '를 포함시키기위해 "를 쓴다.
 
-'''srting''' A = '''
+'''srting''' A = '''From: "영진" 
+                    To: "원봉쌤" 
+                    '''
+문자열안에 "를 포함하고 여러행의 문자열을 쓰기위함
+
+"""string""" A = """
