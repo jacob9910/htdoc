@@ -1,1 +1,9 @@
-dasdas
+Python Studying
+
+'string' A = 'He said "you can learn python"'
+문자열안에 "를 포함시키기위해 '를 쓴다.
+
+"string" A = "I'm python teacher"
+문자열안에 '를 포함시키기위해 "를 쓴다.
+
+'''srting''' A = '''
