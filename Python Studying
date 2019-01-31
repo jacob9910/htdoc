@@ -20,5 +20,34 @@ Python Studying
 
 그러나, 이 방법은 복잡하므로 '와"중 자신이 편한것을 사용해도 무관하다. (일관성있게만 사용하면 no problem)
 
+\n 개행(줄바꿈)
+예)
+  print('apple is\n very expensive')
+  result: 
+  apple is 
+   very expensive
 
+\t 탭
+예)
+  print('apple is\t very expensive')
+  result:
+  apple is      very expensive
+  
+\\ 문자 그대로의 \
+예)
+  print('apple is\\ very expensive')
+  result:
+  apple is\ very expensive
 
+\' 문자 그대로의 '
+예)
+  print('\"apple\" is very expensive')
+  result:
+  "apple" is very expensive
+  
+\" 문자 그대로의 "
+예) 
+  print('\'apple\' is very expensive')
+  result:
+  'apple' is very expensive
+  
