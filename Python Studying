@@ -20,6 +20,9 @@ Python Studying
 
 그러나, 이 방법은 복잡하므로 '와"중 자신이 편한것을 사용해도 무관하다. (일관성있게만 사용하면 no problem)
 
+
+
+
 \n 개행(줄바꿈)
 예)
   print('apple is\n very expensive')
@@ -50,4 +53,18 @@ Python Studying
   print('\'apple\' is very expensive')
   result:
   'apple' is very expensive
+  
+
+문자열-연산
+
++ 문자열을 붙이는데 사용함
+예) 
+  a = 'pineapple'
+  b = 'Korea'
+  print(a +' '+  b)
+  result:
+  pineapple Korea
+ 
+ * 문자열을 반복하는데 사용함
+ 예)
   
