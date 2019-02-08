@@ -67,4 +67,11 @@ Python Studying
  
  * 문자열을 반복하는데 사용함
  예)
+   a = '='
+   print(a*6)
+   result:
+   ======
+   
+   
+   
   
