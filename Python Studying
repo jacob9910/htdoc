@@ -101,6 +101,10 @@ count
 result = a.count('이')
 result의 값은 2가나온다.
 
+find 
+문자열에서 특정문자의 위치를 찾아준다
+result = a.find('동')
+
 
 
 
