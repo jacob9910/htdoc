@@ -107,8 +107,14 @@ result = a.find('동')
 result의 값은 0이나온다.
 
 index 
-문자열에 특정한 문자가 몇번 들어가있는지 세줌
-result = a.index()
+문자열에 특정 문자의 위치를 찾아준다
+result = a.index('동')
+result의 값은 0이나온다
+
+join
+문자 사이에 입력한 문자를 삽입한다
+a = '+'
+result a.join([199])
 
 
 
